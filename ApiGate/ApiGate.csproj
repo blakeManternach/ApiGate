@@ -5,6 +5,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="WebScraping\.idea\inspectionProfiles\profiles_settings.xml" />
+    <Content Include="WebScraping\.idea\misc.xml" />
+    <Content Include="WebScraping\.idea\modules.xml" />
+    <Content Include="WebScraping\.idea\vcs.xml" />
+    <Content Include="WebScraping\.idea\workspace.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="WebScraping\.idea\.gitignore" />
+    <None Include="WebScraping\.idea\WebScraping.iml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
     <PackageReference Include="MediatR" Version="9.0.0" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
